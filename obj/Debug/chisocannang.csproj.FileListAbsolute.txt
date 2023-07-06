@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\bin\Debug\chisocannang.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\bin\Debug\chisocannang.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\bin\Debug\chisocannang.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\obj\Debug\chisocannang.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\obj\Debug\chisocannang.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\obj\Debug\chisocannang.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\obj\Debug\chisocannang.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\chisocannang\obj\Debug\chisocannang.pdb
